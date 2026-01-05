@@ -18,8 +18,9 @@
   - Процедуры
 - **VIEWS (представлении)**
   - Три типы представлений (Permanent(постоянный), Temporary(временный), CTE(одноразовый))
-  - "C:\Users\user\Desktop\Data\https___dev-to-uploads.s3.amazonaws.com_uploads_articles_540yw6zyk9c5vdirmn90.webp"
   - Мягкое удаление
 - **Оптимизация**
   - Индексы
   - Транзакция (выполнить несколько запросов одновременно)# Data-base-project
+    
+![https___dev-to-uploads s3 amazonaws com_uploads_articles_540yw6zyk9c5vdirmn90](https://github.com/user-attachments/assets/672dcf2e-2edb-4868-b265-ac6e1913138f)
